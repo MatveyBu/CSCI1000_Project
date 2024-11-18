@@ -1,8 +1,9 @@
 # Nicholas Close
 <img src="Portraits\Nicholas'_Portrait.jpg" alt="drawing" width="200"/>
 
-## Desired Future Job
+## Desired Future Job:
 Reseacher in the Field of Quantum Computing
+
 ## Hobbies:
 - 🚵‍♂️ Mountain Biking
 - ⛷️ Skiing
@@ -10,7 +11,7 @@ Reseacher in the Field of Quantum Computing
 - 🎺 Baritone
 - 🖥️ Programming
 
-## Prior CS Experience
+## Prior CS Experience:
 [//]: <> (All Buttons Personally Created)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
@@ -22,3 +23,8 @@ Reseacher in the Field of Quantum Computing
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+## Current Projects:
+- Sudoku Solver
+- KTP Pledge Project (CS classes for non-cs students)
+- Better Degree Audit System
